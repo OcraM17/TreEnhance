@@ -9,6 +9,7 @@ Accepted in Pattern Recognition
 
 <p align="center">
 <img src="figs/tree.png" width="400" height="350"/>
+<br/>
 <img src="figs/opt.png" width="400" height="150" />
 </p>
 
