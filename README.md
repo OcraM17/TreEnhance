@@ -6,17 +6,23 @@ Official implementation of the paper "TreEnhance:  A Tree Search Method For Low-
 Accepted in Pattern Recognition
 
 [Paper arXiv](https://arxiv.org/pdf/2205.12639.pdf)
-![plot](figs/tree.png)
+
+<img src="figs/tree.png" width="400" height="350" />
+<img src="figs/opt.png" width="400" height="150" />
+
 ## Requirements
 python > 3.7, Pytorch, Torchvision, PIL, numpy
-![opt](figs/opt.png)
+
 ## Running Experiments
 
 To reproduce the experiments of our paper, please download the [LOL](https://daooshee.github.io/BMVC2018website/) and [FIVE-K](https://data.csail.mit.edu/graphics/fivek/)
 Split the data in train and test folders and run the training.py script. Once the model has been trained, it could be tested using the evaluation.py
 
 ## Results
-![lol](figs/lol.png)
+<p float="left">
+  <img src="figs/grid.png" width="200" height="250" />
+  <img src="figs/lol.png" width="200" height="250" />
+</p>
 
 ## Reference
 If you are considering using our code or you want to cite our paper please use:
@@ -29,5 +35,4 @@ If you are considering using our code or you want to cite our paper please use:
   year={2022}
 }
 ```
-![grid](figs/grid.png)
 
