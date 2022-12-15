@@ -6,10 +6,12 @@ Official implementation of the paper "TreEnhance:  A Tree Search Method For Low-
 Accepted in Pattern Recognition
 
 [Paper arXiv](https://arxiv.org/pdf/2205.12639.pdf)
+
 <p align="center">
 <img src="figs/tree.png" width="400" height="350"/>
 <img src="figs/opt.png" width="400" height="150" />
 </p>
+
 ## Requirements
 python > 3.7, Pytorch, Torchvision, PIL, numpy
 
