@@ -7,7 +7,7 @@ Accepted in Pattern Recognition
 
 [Paper arXiv](https://arxiv.org/pdf/2205.12639.pdf)
 
-<img src="figs/tree.png" width="400" height="350" />
+<img src="figs/tree.png" width="400" height="350"/>
 <img src="figs/opt.png" width="400" height="150" />
 
 ## Requirements
@@ -20,8 +20,8 @@ Split the data in train and test folders and run the training.py script. Once th
 
 ## Results
 <p float="left">
-  <img src="figs/grid.png" width="200" height="250" />
-  <img src="figs/lol.png" width="200" height="250" />
+  <img src="figs/grid.png" width="300" height="350" />
+  <img src="figs/lol.png" width="300" height="350" />
 </p>
 
 ## Reference
