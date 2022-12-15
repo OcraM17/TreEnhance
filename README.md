@@ -20,8 +20,8 @@ Split the data in train and test folders and run the training.py script. Once th
 
 ## Results
 <p float="left">
-  <img src="figs/grid.png" width="300" height="350" />
-  <img src="figs/lol.png" width="300" height="350" />
+  <img src="figs/grid.png" width="350" height="400" />
+  <img src="figs/lol.png" width="350" height="400" />
 </p>
 
 ## Reference
