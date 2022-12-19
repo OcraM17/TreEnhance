@@ -3,9 +3,9 @@ Official implementation of the paper "TreEnhance:  A Tree Search Method For Low-
 
 [Marco Cotogni](https://scholar.google.com/citations?user=8PUz5lAAAAAJ&hl=it) and [Claudio Cusano](https://scholar.google.com/citations?hl=it&user=lhZpU_8AAAAJ&view_op=list_works&sortby=pubdate)
 
-Accepted in Pattern Recognition
+The official version of the paper is available [here](https://www.sciencedirect.com/science/article/abs/pii/S0031320322007282?via%3Dihub)
 
-[Paper arXiv](https://arxiv.org/pdf/2205.12639.pdf)
+You can find also an [arXiv](https://arxiv.org/pdf/2205.12639.pdf) version of the paper.
 
 <p align="center">
 <img src="figs/tree.png" width="400" height="350"/>
@@ -31,11 +31,11 @@ Split the data in train and test folders and run the training.py script. Once th
 If you are considering using our code or you want to cite our paper please use:
 
 ```
-@article{cotogni2022treenhance,
-  title={TreEnhance: An Automatic Tree-Search Based Method for Low-Light Image Enhancement},
-  author={Cotogni, Marco and Cusano, Claudio},
-  journal={arXiv preprint arXiv:2205.12639},
-  year={2022}
-}
+@article{Cotogni2022TreEnhance,
+title = {TreEnhance: A Tree Search Method For Low-Light Image Enhancement},
+journal = {Pattern Recognition},
+pages = {109249},
+year = {2022},
+issn = {0031-3203},
 ```
 
