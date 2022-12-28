@@ -31,11 +31,13 @@ Split the data in train and test folders and run the training.py script. Once th
 If you are considering using our code or you want to cite our paper please use:
 
 ```
-@article{Cotogni2022TreEnhance,
-title = {TreEnhance: A Tree Search Method For Low-Light Image Enhancement},
-journal = {Pattern Recognition},
-pages = {109249},
-year = {2022},
-issn = {0031-3203},
+@article{cotogni2022treenhance,
+  title={TreEnhance: A Tree Search Method For Low-Light Image Enhancement},
+  author={Cotogni, Marco and Cusano, Claudio},
+  journal={Pattern Recognition},
+  pages={109249},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
 
