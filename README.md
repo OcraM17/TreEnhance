@@ -76,8 +76,8 @@ to test the model and generate the images.
 
 ### Quantitative results
 <p float="left">
-  <img src="figs/lol_t.png" height="200" width="500"/>
-  <img src="figs/five-k.png" height="200" width="500"/>
+  <img src="figs/lol_t.png" height=180 width="auto"/>
+  <img src="figs/five-k.png" height=180 width="auto"/>
 </p>
 
 ### Qualitative results
